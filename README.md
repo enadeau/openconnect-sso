@@ -1,3 +1,7 @@
+Fork of stalled project including the following changes
+- Allow legacy renegotiation, and failing redirect detection https://github.com/vlaci/openconnect-sso/pull/126
+- https://github.com/vlaci/openconnect-sso/pull/178
+
 # openconnect-sso
 
 Wrapper script for OpenConnect supporting Azure AD (SAMLv2) authentication
